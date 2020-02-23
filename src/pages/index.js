@@ -23,7 +23,7 @@ export default () => (
           </h1>
 
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Price Authority for Local Small and Medium Businesses to Find Authentic Price and Quality Information
+            Serving Local Small and Medium Businesses to Find Authentic Price and Quality Information
 
           </p>
           <p className="mt-8 md:mt-12">
